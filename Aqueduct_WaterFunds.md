@@ -1,7 +1,7 @@
 # Indicadores de Riesgo Hidrico a Incorporar en WaterFunds App           (Aqueduct Global Maps 3.0 Data)
 
 <img src="https://tnc.box.com/shared/static/n1yas78l3chdciev45n95ig6e4iq34wu.png" alt="drawing" width="800" height="1000"/>
-
+![](https://tnc.box.com/shared/static/n1yas78l3chdciev45n95ig6e4iq34wu.png)
 El presente documento contiene una breve síntesis de que es Aqueduct, cuáles son los indicadores que integran esta base de datos y que indicadores se deberían incorporar la WaterFunds App
 
 ## 1. ¿Que es Aqueduct?
