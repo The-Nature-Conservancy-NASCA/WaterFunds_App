@@ -1,6 +1,6 @@
 # Indicadores de Riesgo Hidrico a Incorporar en WaterFunds App           (Aqueduct Global Maps 3.0 Data)
 
-<img src="https://tnc.box.com/shared/static/n1yas78l3chdciev45n95ig6e4iq34wu.png" alt="drawing" width="800" height="1000"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Title.PNG" alt="drawing" width="800" height="1000"/>
 
 El presente documento contiene una breve síntesis de que es Aqueduct, cuáles son los indicadores que integran esta base de datos y que indicadores se deberían incorporar la WaterFunds App
 
@@ -13,7 +13,7 @@ Si lector quiere tener un mayor conocimiento de Aqueduct puede remitirse al [Doc
 Aqueduct consolida un total de 13 indicadores los cuales se encuentran agrupados en tres niveles jerárquicos, de acuerdo con la información que brinda el indicador. En la Figura se presentan los indicadores de Aqueduct agrupados por categoría.
 ![asdasd](https://tnc.box.com/s/ox56y86ysvglp4ffqlta3t9ixtj6rpl8)
 
-<img src="https://tnc.box.com/shared/static/yqc4ijowthhq0i3xvu2330t769cuvjuv.png" width="800"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Index.PNG" width="800"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -37,7 +37,7 @@ Este indicador mide la relación del consumo total de agua con el suministro de 
 
 Este indicador se estima a nivel mensual y anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/ontbq9blikjgjnl5r0i02ldgwoj50x2b.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/2.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -47,7 +47,7 @@ La variabilidad interanual mide la variabilidad promedio entre años del suminis
 
 Este indicador se estima a nivel mensual y anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/fjajn6wcsvkayr8n61yt6ogf4t0qwjol.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/3.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -57,7 +57,7 @@ Este indicador mide la variabilidad promedio dentro del año del suministro de a
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/ockckrq2i1u9w9pf86pzny6ujbhhqxie.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/4.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -67,7 +67,7 @@ Este indicador mide la disminución promedio de la capa freática como el cambio
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/xi2msgr2g18cdjprnl1ssi1n7tbz44jw.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/5.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -77,7 +77,7 @@ Este indicador mide el porcentaje de población que se espera que se vea afectad
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/1af6zitt6qdsvfadfed3mvxqei047023.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/6.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -87,7 +87,7 @@ Este indicador mide el porcentaje de la población que se espera que se vea afec
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/p7xhd894biezhjd9gtqz4jka20g6z7s5.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/7.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -97,7 +97,7 @@ Este indicador mide donde es probable que ocurran sequías, la población y los 
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/eg7ivke801zg5nfyw04be8zscmozy0ve.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/8.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -109,7 +109,7 @@ Este indicador miden el porcentaje de aguas residuales domésticas que se conect
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/zo6i3pwk6sr8pnmliw0brj1tklrtqkza.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/9.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -119,7 +119,7 @@ Este indicador mide el potencial de las cargas fluviales de nitrógeno (N), fós
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/uvmm6wlme3n5g4bhls2xctyk1yyi2mqz.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/10.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -131,7 +131,7 @@ Este indicador mide el porcentaje de la población que recoge agua potable de un
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/sqddn92nc0d6ccbnb73k7latul11r3h9.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/11.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -141,7 +141,7 @@ Este indicador el porcentaje de la población que usa letrinas de pozo sin una l
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/gp4r9bad78pqd6o5qpamhuyv2ddnhlzv.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/12.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -151,7 +151,7 @@ Este indicador cuantifica la exposición al riesgo de conducta empresarial relac
 
 Este indicador se estima a nivel anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/j95oytsx0a7a7499urav7dtm3m0yh4i7.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/13.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
@@ -181,7 +181,7 @@ En concordancia con los objetivos planteados para la Water Funds App los indicad
 
 Tomando en cuenta la categorización que presenta cada uno de los indicadores, en la App se debería ver  de la siguiente forma
 
-<img src="https://tnc.box.com/shared/static/cvifoktcukmhrc3u6cyp9kz93t067v50.png" alt="drawing" width="800"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Tacometro.PNG" alt="drawing" width="800"/>
 
 ## 5. Flujo de trabajo en la WaterFunds App
 
@@ -189,7 +189,7 @@ Los datos de Aqueduct se encuentran consolidados en un archivo shapefile el cual
 Posterior a esto, se debe estimar el área de cada polígono, con el objetivo de seleccionar cual es el polígono con la mayor área para tomar los indicadores que tenga este en su metadato.
 Así pues, el sistema toma los metadatos de este polígono y los presenta un grafio de tacómetro tal como se presentó anteriormente 
 
-<img src="https://tnc.box.com/shared/static/c1xcecaygmujr5m1dx14huzck67wst97.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Flujo_Aqueduct.PNG" alt="drawing" width="400"/>
 
 La base de datos de Aqueduct presenta múltiples conjuntos de datos de riesgo relacionados con el agua::
 
