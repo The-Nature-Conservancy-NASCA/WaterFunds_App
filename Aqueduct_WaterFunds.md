@@ -1,6 +1,6 @@
 # Indicadores de Riesgo Hidrico a Incorporar en WaterFunds App           (Aqueduct Global Maps 3.0 Data)
 
-<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Title.PNG" alt="drawing" width="800" height="1000"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Title.PNG" alt="drawing" width="500" height="1000"/>
 
 El presente documento contiene una breve síntesis de que es Aqueduct, cuáles son los indicadores que integran esta base de datos y que indicadores se deberían incorporar la WaterFunds App
 
