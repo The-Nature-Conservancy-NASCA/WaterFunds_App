@@ -28,7 +28,7 @@ Este indicador mide la relación entre las extracciones totales de agua y los su
 
 Este indicador se estima a nivel mensual y anual. La categorización para le nivel de riesgo que tiene este indicador se muestra a continuación:
 
-<img src="https://tnc.box.com/shared/static/ox56y86ysvglp4ffqlta3t9ixtj6rpl8.png" alt="drawing" width="400"/>
+<img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/1.PNG" alt="drawing" width="400"/>
 
 **Fuente :** [Aqueduct](https://files.wri.org/s3fs-public/aqueduct-30-updated-decision-relevant-global-water-risk-indicators_1.pdf)
 
