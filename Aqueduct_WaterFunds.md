@@ -11,7 +11,6 @@ Si lector quiere tener un mayor conocimiento de Aqueduct puede remitirse al [Doc
 
 ## 2. ¿Cuales son los indicadores que integra Aqueduct?
 Aqueduct consolida un total de 13 indicadores los cuales se encuentran agrupados en tres niveles jerárquicos, de acuerdo con la información que brinda el indicador. En la Figura se presentan los indicadores de Aqueduct agrupados por categoría.
-![asdasd](https://tnc.box.com/s/ox56y86ysvglp4ffqlta3t9ixtj6rpl8)
 
 <img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Index.PNG" width="800"/>
 
