@@ -186,7 +186,7 @@ Tomando en cuenta la categorización que presenta cada uno de los indicadores, e
 
 Los datos de Aqueduct se encuentran consolidados en un archivo shapefile el cual está dentro de la base de datos del sistema. En ese sentido, cuando el sistema delimite la cuenca o las cuencas objeto de análisis, debe recortar estos datos con la cuenca.
 Posterior a esto, se debe estimar el área de cada polígono, con el objetivo de seleccionar cual es el polígono con la mayor área para tomar los indicadores que tenga este en su metadato.
-Así pues, el sistema toma los metadatos de este polígono y los presenta un grafio de tacómetro tal como se presentó anteriormente 
+Así pues, el sistema toma los metadatos de este polígono y los presenta un grafico de tacómetro tal como se presentó anteriormente 
 
 <img src="https://github.com/The-Nature-Conservancy-NASCA/WaterFunds_App/blob/master/Images_Aqueduct/Flujo_Aqueduct.PNG" alt="drawing" width="400"/>
 
