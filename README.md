@@ -1,2 +1,1 @@
-# WaterFunds_App
-Water Funds App
+# WaterFunds App
